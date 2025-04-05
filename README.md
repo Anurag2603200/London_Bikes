@@ -18,7 +18,7 @@ This repository contains the source code and data files for a data analysis proj
 1. **Clone the Repository**: Clone this repository to your local machine using Git:
 
    ```
-   git clone https://github.com/kumarharsh007/London_Bikes.git
+   git clone https://github.com/Anurag2603200/London_Bikes.git
    ```
 
 2. **Set Up Environment**: Ensure you have Python installed along with necessary libraries (e.g., Pandas, Matplotlib, Seaborn) for running the Python scripts.
